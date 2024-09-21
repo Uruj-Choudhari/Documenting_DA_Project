@@ -1,4 +1,4 @@
-# HR Analytical Dashboard
+# Workforce Insights Hub
 
 ## Table of Contents
 - [Project Overview](#project-overview)

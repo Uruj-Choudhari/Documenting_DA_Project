@@ -5,7 +5,7 @@
 - [Data Source](#data-source)
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
-- [Data Analysis](data_analysis)
+- [Data Analysis](data-analysis)
 - [Results](results)
 
 ## Project Overview
